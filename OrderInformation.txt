@@ -1,0 +1,7 @@
+**Receipt**
+Bike Brand: Scott
+Bike Type: Road
+Frame Model: Spark RC $3,456
+Frame Size: H- 5`3/5`6 SZ = Small
+Wheels Size:  27.5/650b = 584mm 
+Shipping: Delivery

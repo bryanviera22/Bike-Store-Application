@@ -1,0 +1,20 @@
+mysql -u root
+
+show databases;
+
+create database bikestore;
+
+show databases;
+
+use bikestore;
+
+create table bike(
+brand varchar(30),
+type varchar(40),
+model_by_brand varchar(40),
+frame_size varchar(40),
+wheel_size varchar(40));
+
+show tables;
+
+describe bike;
